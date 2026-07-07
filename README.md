@@ -28,7 +28,7 @@ A modern and fully responsive **Food Delivery Website** built using **HTML, CSS 
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 - Swiper.js
 - Font Awesome
 
